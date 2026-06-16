@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Aman",
+        "age": 20,
+        "city": "Delhi",
+        "course": "BCA",
+        "marks": 75
+    },
+    {
+        "name": "Riya",
+        "age": 21,
+        "city": "Mumbai",
+        "course": "BBA",
+        "marks": 68
+    },
+    {
+        "name": "Sohan",
+        "age": 19,
+        "city": "Pune",
+        "course": "BSc",
+        "marks": 82
+    },
+    {
+        "name": "Neha",
+        "age": 22,
+        "city": "Chennai",
+        "course": "BA",
+        "marks": 60
+    }
+]
